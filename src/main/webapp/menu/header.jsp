@@ -21,7 +21,7 @@
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
 <!-- 		<img src="https://cm-santiago-do-cacem.pt/img/comedy/21/someone-has-worked-out-what-homer-simpson-would-look-like-real-life.jpg">
- -->		<img alt="" src="images/homer.jpg">
+ -->		<img alt="" src="images/homer.jpg" style="width: 100px; height: 100px">
 	</a>
    
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
